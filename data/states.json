@@ -340,15 +340,38 @@
       "code": "IL",
       "name": "Illinois",
       "slug": "illinois",
-      "status": "queued",
-      "checkedAt": null,
-      "rules": [],
+      "status": "verified",
+      "checkedAt": "2026-11-27",
+      "rules": [
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Itemized statement of damage within 30 days after move-out; otherwise return the deposit in full within 45 days",
+          "detail": "To withhold any part of the deposit for property damage, the landlord must furnish an itemized statement of damage with estimated or actual repair costs within 30 days after the tenant vacates (or the tenant's right of possession ends, if later), with paid receipts or copies. If no statement and receipts are furnished, the full deposit must be returned within 45 days of the date the tenant vacated.",
+          "quote": "If no such statement and receipts, or copies thereof, are furnished to the lessee as required by this Section, the lessor shall return the security deposit in full within 45 days of the date that the lessee vacated the premises",
+          "citation": "765 ILCS 710/1(a)",
+          "sourceUrl": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2202&ChapterID=62",
+          "sourceName": "Illinois General Assembly (Security Deposit Return Act)",
+          "checkedAt": "2026-11-27",
+          "slug": "illinois-deposit-return"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "30 days' written notice (7 days for week-to-week tenancies)",
+          "detail": "For tenancies of less than one year (other than week to week) where the tenant holds over without special agreement, the landlord may terminate with 30 days' written notice. Week-to-week tenancies use 7 days' written notice. Section 9-207.5 may change this rule in some cases.",
+          "quote": "the landlord may terminate the tenancy by 30 days' notice, in writing, and may maintain an action for eviction or ejectment.",
+          "citation": "735 ILCS 5/9-207(b)",
+          "sourceUrl": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K9-207",
+          "sourceName": "Illinois General Assembly",
+          "checkedAt": "2026-11-27",
+          "slug": "illinois-termination-notice"
+        }
+      ],
       "pendingTopics": [
         "deposit-cap",
-        "deposit-return",
         "late-fee",
-        "entry-notice",
-        "termination-notice"
+        "entry-notice"
       ]
     },
     {

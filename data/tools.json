@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-26",
+  "checkedAt": "2026-11-27",
   "tools": [
     {
       "slug": "turbotenant",
@@ -523,6 +523,51 @@
       ],
       "bestFor": "Landlords shopping for rental property insurance",
       "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "tenantcloud",
+      "name": "TenantCloud",
+      "category": "All-in-one landlord software",
+      "website": "https://www.tenantcloud.com/",
+      "pricingUrl": "https://www.tenantcloud.com/pricing",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0/month",
+          "note": null
+        },
+        {
+          "name": "Essentials",
+          "price": "From $12.42/month",
+          "note": "$149/year for 1–10 units"
+        },
+        {
+          "name": "Pro",
+          "price": "From $16.58/month",
+          "note": "$199/year for 1–10 units"
+        },
+        {
+          "name": "Business",
+          "price": "Starting at $100/month",
+          "note": "For property managers; final price depends on units and features"
+        }
+      ],
+      "screening": "Not listed on the pricing page",
+      "ach": "Not listed on the pricing page",
+      "card": "Not listed on the pricing page",
+      "notes": [
+        "Free plan lists rentals, screens applicants and collects rent online.",
+        "Essentials adds unlimited leases and e-signatures; Pro adds income verification and accounting tools.",
+        "Prices exclude applicable taxes."
+      ],
+      "sources": [
+        {
+          "label": "TenantCloud pricing",
+          "url": "https://www.tenantcloud.com/pricing"
+        }
+      ],
+      "bestFor": "Landlords who want a free starting plan with optional leasing and accounting upgrades",
+      "checkedAt": "2026-11-27"
     }
   ]
 }

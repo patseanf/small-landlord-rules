@@ -8,6 +8,15 @@
         "/states",
         "/tools"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "type": "nightly",
+      "title": "Added Illinois landlord rules (2 statute-cited rules) and TenantCloud tool review",
+      "paths": [
+        "/states/illinois",
+        "/tools/tenantcloud"
+      ]
     }
   ]
 }

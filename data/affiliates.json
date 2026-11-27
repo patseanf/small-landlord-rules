@@ -1,0 +1,189 @@
+{
+  "note": "Links point to official sites until Patrick is approved; then set affiliateUrl and affiliateStatus='active'.",
+  "checkedAt": "2026-11-26",
+  "links": [
+    {
+      "tool": "turbotenant",
+      "name": "TurboTenant",
+      "url": "https://www.turbotenant.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "turbotenant",
+        "program": "TurboTenant Affiliate Program",
+        "signupUrl": "https://www.turbotenant.com/affiliates/",
+        "network": "Impact",
+        "commission": "$40 per customer + $5 per lead",
+        "contact": "partners@turbotenant.com",
+        "termsUrl": "https://www.turbotenant.com/affiliates/",
+        "termsVerified": true
+      }
+    },
+    {
+      "tool": "rentredi",
+      "name": "RentRedi",
+      "url": "https://rentredi.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "rentredi",
+        "program": "RentRedi Partner Program",
+        "signupUrl": "https://rentredi.com/affiliate-program",
+        "network": "Impact",
+        "commission": "20% per qualified subscription; 30-day cookie",
+        "contact": "partners@rentredi.com",
+        "termsUrl": "https://rentredi.com/affiliate-program",
+        "termsVerified": true
+      }
+    },
+    {
+      "tool": "avail",
+      "name": "Avail",
+      "url": "https://www.avail.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "avail",
+        "program": "Avail Affiliate Partner Program",
+        "signupUrl": "https://info.avail.com/affiliate-program",
+        "network": "Not stated",
+        "commission": "Not published",
+        "contact": null,
+        "termsUrl": "https://info.avail.com/affiliate-program",
+        "termsVerified": false
+      }
+    },
+    {
+      "tool": "innago",
+      "name": "Innago",
+      "url": "https://innago.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "innago",
+        "program": "Innago Affiliate Program",
+        "signupUrl": "https://innago.com/affiliate-program/",
+        "network": "Not stated",
+        "commission": "Check program page",
+        "contact": null,
+        "termsUrl": "https://innago.com/affiliate-program/",
+        "termsVerified": false
+      }
+    },
+    {
+      "tool": "baselane",
+      "name": "Baselane",
+      "url": "https://www.baselane.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "baselane",
+        "program": "Baselane Affiliate Program",
+        "signupUrl": "https://www.baselane.com/partner-with-us",
+        "network": "Not stated",
+        "commission": "Up to $150 per qualified referral (page header says up to $200)",
+        "contact": null,
+        "termsUrl": "https://www.baselane.com/partner-with-us",
+        "termsVerified": true
+      }
+    },
+    {
+      "tool": "stessa",
+      "name": "Stessa",
+      "url": "https://www.stessa.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "rentec-direct",
+      "name": "Rentec Direct",
+      "url": "https://www.rentecdirect.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "rentec-direct",
+        "program": "Rentec Direct Affiliate Program",
+        "signupUrl": "https://www.rentecdirect.com/blog/announcing-the-upgraded-rentec-direct-affiliate-program/",
+        "network": "In-house (electronic affiliate agreement)",
+        "commission": "25% of sales for 12 months + $10 per free-trial signup (announced Mar 2023)",
+        "contact": "info@rentecdirect.com",
+        "termsUrl": "https://www.rentecdirect.com/blog/announcing-the-upgraded-rentec-direct-affiliate-program/",
+        "termsVerified": true
+      }
+    },
+    {
+      "tool": "doorloop",
+      "name": "DoorLoop",
+      "url": "https://www.doorloop.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "buildium",
+      "name": "Buildium",
+      "url": "https://www.buildium.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "hemlane",
+      "name": "Hemlane",
+      "url": "https://www.hemlane.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "zillow-rental-manager",
+      "name": "Zillow Rental Manager",
+      "url": "https://www.zillow.com/rental-manager/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "apartments-com-rental-manager",
+      "name": "Apartments.com Rental Manager",
+      "url": "https://www.apartments.com/rental-manager/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "rentprep",
+      "name": "RentPrep",
+      "url": "https://rentprep.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "transunion-smartmove",
+      "name": "TransUnion SmartMove",
+      "url": "https://www.mysmartmove.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "no-program-known",
+      "program": null
+    },
+    {
+      "tool": "steadily",
+      "name": "Steadily",
+      "url": "https://www.steadily.com/",
+      "affiliateUrl": null,
+      "affiliateStatus": "pending",
+      "program": {
+        "tool": "steadily",
+        "program": "Steadily Partners",
+        "signupUrl": "https://www.steadily.com/partners",
+        "network": "Awin (merchant 42963)",
+        "commission": "Awin listing shows $20 per lead (not on Steadily's own page)",
+        "contact": null,
+        "termsUrl": "https://ui.awin.com/merchant-profile/42963",
+        "termsVerified": false
+      }
+    }
+  ]
+}

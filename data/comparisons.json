@@ -1,0 +1,44 @@
+{
+  "comparisons": [
+    {
+      "slug": "turbotenant-vs-avail",
+      "a": "turbotenant",
+      "b": "avail",
+      "title": "TurboTenant vs Avail: fees compared",
+      "summary": "Both have a $0 tier. TurboTenant's paid tier is a flat annual price; Avail's paid tier is per unit. Avail's free plan charges tenants $2.50 per bank transfer vs TurboTenant's $2 on its free plan.",
+      "points": [
+        "Paid tier: TurboTenant Pro is $199/year for 1–10 units; Avail Unlimited Plus is $9/unit/month.",
+        "Bank transfers: TurboTenant free plan $2, Pro free; Avail free plan $2.50 (tenant-paid), Unlimited Plus $0.",
+        "Cards: TurboTenant 3.49%; Avail 3.5%.",
+        "Screening: TurboTenant $55 (free) / $45 (Pro), renter-paid; Avail varies by location."
+      ],
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "baselane-vs-stessa",
+      "a": "baselane",
+      "b": "stessa",
+      "title": "Baselane vs Stessa: fees compared",
+      "summary": "Both start free and both bank through Thread Bank. Baselane's paid tier is $20/month (annual); Stessa's paid tiers are $12 and $28/month (annual).",
+      "points": [
+        "Paid tiers: Baselane Smart $20/month on an annual plan; Stessa Manage $12/month and Pro $28/month (annual).",
+        "Screening: Baselane from $24.99; Stessa via RentPrep $29–$49.",
+        "ACH rent: Baselane $2–$5 (waived for Baselane deposits); Stessa: check provider."
+      ],
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "rentredi-vs-innago",
+      "a": "rentredi",
+      "b": "innago",
+      "title": "RentRedi vs Innago: fees compared",
+      "summary": "Innago is free for landlords and earns from tenant fees. RentRedi charges the landlord a subscription ($12/month billed annually up to $29.95 month-to-month).",
+      "points": [
+        "Landlord cost: RentRedi $12–$29.95/month depending on billing term; Innago $0.",
+        "Tenant ACH: Innago $2 (tenant-paid); RentRedi: check provider.",
+        "Screening: Innago $30–$35 applicant-paid by default; RentRedi $39.99 tenant-paid ($49.99 with income verification)."
+      ],
+      "checkedAt": "2026-11-26"
+    }
+  ]
+}

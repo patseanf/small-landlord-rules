@@ -1,0 +1,528 @@
+{
+  "checkedAt": "2026-11-26",
+  "tools": [
+    {
+      "slug": "turbotenant",
+      "name": "TurboTenant",
+      "category": "All-in-one landlord software",
+      "website": "https://www.turbotenant.com/",
+      "pricingUrl": "https://www.turbotenant.com/pricing/",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0/month",
+          "note": null
+        },
+        {
+          "name": "Essentials",
+          "price": "From $12.42/month",
+          "note": "$149/year for 1–10 units"
+        },
+        {
+          "name": "Pro",
+          "price": "From $16.58/month",
+          "note": "$199/year for 1–10 units"
+        }
+      ],
+      "screening": "Renter-paid: $55 on the free plan, $45 on Pro",
+      "ach": "$2 on the free plan; free on Pro",
+      "card": "3.49%",
+      "notes": [
+        "Landlords can choose to pay the screening fee themselves.",
+        "Standalone tenant placement (Autopilot) is a one-time $1,500 flat fee."
+      ],
+      "sources": [
+        {
+          "label": "TurboTenant pricing",
+          "url": "https://www.turbotenant.com/pricing/"
+        }
+      ],
+      "bestFor": "Landlords who want free listings, applications and screening with an optional annual upgrade",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "rentredi",
+      "name": "RentRedi",
+      "category": "All-in-one landlord software",
+      "website": "https://rentredi.com/",
+      "pricingUrl": "https://rentredi.com/pricing",
+      "plans": [
+        {
+          "name": "Monthly",
+          "price": "$29.95/month",
+          "note": null
+        },
+        {
+          "name": "6-month",
+          "price": "$20/month",
+          "note": "billed semi-annually"
+        },
+        {
+          "name": "Annual",
+          "price": "$12/month",
+          "note": "billed annually"
+        }
+      ],
+      "screening": "Tenant-paid: $39.99 (credit, criminal, eviction) or $49.99 with income verification",
+      "ach": "Check provider",
+      "card": "Check provider",
+      "notes": [
+        "Credit reporting is $5.99/month, landlord- or tenant-paid.",
+        "Every plan includes the full feature set and unlimited properties, tenants and teammates.",
+        "30-day money-back guarantee; no contract."
+      ],
+      "sources": [
+        {
+          "label": "RentRedi pricing",
+          "url": "https://rentredi.com/pricing"
+        }
+      ],
+      "bestFor": "Landlords who want one flat subscription with unlimited units",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "avail",
+      "name": "Avail",
+      "category": "All-in-one landlord software",
+      "website": "https://www.avail.com/",
+      "pricingUrl": "https://www.avail.com/pricing",
+      "plans": [
+        {
+          "name": "Unlimited",
+          "price": "$0/unit",
+          "note": null
+        },
+        {
+          "name": "Unlimited Plus",
+          "price": "$9/unit/month",
+          "note": null
+        }
+      ],
+      "screening": "Varies by location (state law); tenant-paid by default, landlord can cover. Check provider",
+      "ach": "$2.50 per bank transfer on the free plan (tenant-paid); $0 on Unlimited Plus",
+      "card": "3.5% (tenant-paid, any plan)",
+      "notes": [
+        "Unlimited Plus adds FastPay, waived ACH charges and custom application questions."
+      ],
+      "sources": [
+        {
+          "label": "Avail pricing",
+          "url": "https://www.avail.com/pricing"
+        }
+      ],
+      "bestFor": "Small landlords who want state-specific leases and free core tools",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "innago",
+      "name": "Innago",
+      "category": "All-in-one landlord software",
+      "website": "https://innago.com/",
+      "pricingUrl": "https://innago.com/faq/",
+      "plans": [
+        {
+          "name": "Free",
+          "price": "$0/month",
+          "note": "no setup fee or contract"
+        }
+      ],
+      "screening": "$30–$35 per applicant (applicant-paid); +$10 for income verification",
+      "ach": "$2 per ACH payment (tenant-paid by default; landlord can choose to absorb)",
+      "card": "2.99%",
+      "notes": [
+        "Innago states it is 100% free for landlords and earns from tenant transaction and screening fees."
+      ],
+      "sources": [
+        {
+          "label": "Innago FAQ (pricing)",
+          "url": "https://innago.com/faq/"
+        }
+      ],
+      "bestFor": "Landlords who want a fully free platform and are fine with tenant-paid fees",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "baselane",
+      "name": "Baselane",
+      "category": "Banking + bookkeeping + rent collection",
+      "website": "https://www.baselane.com/",
+      "pricingUrl": "https://www.baselane.com/pricing",
+      "plans": [
+        {
+          "name": "Core",
+          "price": "$0/month",
+          "note": null
+        },
+        {
+          "name": "Smart",
+          "price": "$20/month",
+          "note": "on an annual plan; 30-day trial"
+        }
+      ],
+      "screening": "From $24.99",
+      "ach": "$2–$5 per ACH rent payment (waived for Baselane deposits); landlord can cover or pass on",
+      "card": "3.49% (debit or credit)",
+      "notes": [
+        "Checkbooks $15; mailed checks $2; outbound domestic wires $15 (waived at $50,000+ combined balance).",
+        "Banking is provided by Thread Bank, Member FDIC."
+      ],
+      "sources": [
+        {
+          "label": "Baselane pricing",
+          "url": "https://www.baselane.com/pricing"
+        }
+      ],
+      "bestFor": "Landlords who want rental banking and bookkeeping in one place",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "stessa",
+      "name": "Stessa",
+      "category": "Bookkeeping + rent collection",
+      "website": "https://www.stessa.com/",
+      "pricingUrl": "https://www.stessa.com/pricing/",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price": "Free",
+          "note": null
+        },
+        {
+          "name": "Manage",
+          "price": "$12/month",
+          "note": "paid annually ($15 monthly)"
+        },
+        {
+          "name": "Pro",
+          "price": "$28/month",
+          "note": "paid annually ($35 monthly)"
+        }
+      ],
+      "screening": "Via RentPrep: $29 credit only, $29 background only, $49 complete package",
+      "ach": "Check provider",
+      "card": "Check provider",
+      "notes": [
+        "Manage adds a Schedule E report, legal forms and accelerated rent payments."
+      ],
+      "sources": [
+        {
+          "label": "Stessa pricing",
+          "url": "https://www.stessa.com/pricing/"
+        },
+        {
+          "label": "Stessa help: screening reports",
+          "url": "https://support.stessa.com/en/articles/13273570-screening-reports-explained"
+        }
+      ],
+      "bestFor": "Investors focused on bookkeeping and tax-time reports",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "rentec-direct",
+      "name": "Rentec Direct",
+      "category": "Property management software",
+      "website": "https://www.rentecdirect.com/",
+      "pricingUrl": "https://www.rentecdirect.com/pricing.php",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$25/month",
+          "note": "up to 10 properties"
+        },
+        {
+          "name": "Pro",
+          "price": "From $50/month",
+          "note": null
+        },
+        {
+          "name": "PM",
+          "price": "From $50/month",
+          "note": "adds trust accounting and owner portal"
+        }
+      ],
+      "screening": "Starter $14.95–$29.45; Pro/PM $10.00–$18.00",
+      "ach": "Starter $2.00; Pro/PM: 1 free incoming ACH per active property per month, then $0.50",
+      "card": "Starter 3.50%; Pro/PM 2.95% (Amex 3.50%)",
+      "notes": [
+        "Two-week free trial; no setup fees or contracts.",
+        "Cash payments via PayNearMe on Pro/PM ($200 setup; $4.99 tenant-paid per payment)."
+      ],
+      "sources": [
+        {
+          "label": "Rentec Direct pricing",
+          "url": "https://www.rentecdirect.com/pricing.php"
+        }
+      ],
+      "bestFor": "Landlords who want published, all-in pricing and US-based support",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "doorloop",
+      "name": "DoorLoop",
+      "category": "Property management software",
+      "website": "https://www.doorloop.com/",
+      "pricingUrl": "https://www.doorloop.com/pricing",
+      "plans": [
+        {
+          "name": "DoorLoop One",
+          "price": "From $2.50/unit/month",
+          "note": "billed yearly; minimum spend and units apply"
+        },
+        {
+          "name": "DoorLoop Connect",
+          "price": "From $4.00/unit/month",
+          "note": "minimum spend and units apply"
+        }
+      ],
+      "screening": "$35",
+      "ach": "Incoming ACH from $1.50; free incoming ACH on Connect",
+      "card": "Check provider",
+      "notes": [
+        "As low as $1.50 per unit above 100 units on One."
+      ],
+      "sources": [
+        {
+          "label": "DoorLoop pricing",
+          "url": "https://www.doorloop.com/pricing"
+        }
+      ],
+      "bestFor": "Growing portfolios that want full accounting and AI tenant messaging",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "buildium",
+      "name": "Buildium",
+      "category": "Property management software",
+      "website": "https://www.buildium.com/",
+      "pricingUrl": "https://www.buildium.com/pricing/",
+      "plans": [
+        {
+          "name": "Essential",
+          "price": "From $65/month",
+          "note": null
+        },
+        {
+          "name": "Growth",
+          "price": "From $202/month",
+          "note": null
+        },
+        {
+          "name": "Premium",
+          "price": "From $420/month",
+          "note": null
+        }
+      ],
+      "screening": "$17 per screening (landlord-paid), or $35 applicant-paid; enhanced $20 (Growth & Premium)",
+      "ach": "Incoming EFT $2.35 (Essential), $1.35 (Growth), free 12 months then $0.60 (Premium)",
+      "card": "2.99%",
+      "notes": [
+        "Bank account setup fee: $99 per business bank account on Essential."
+      ],
+      "sources": [
+        {
+          "label": "Buildium pricing",
+          "url": "https://www.buildium.com/pricing/"
+        }
+      ],
+      "bestFor": "Property managers and larger portfolios",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "hemlane",
+      "name": "Hemlane",
+      "category": "Software + leasing services",
+      "website": "https://www.hemlane.com/",
+      "pricingUrl": "https://www.hemlane.com/pricing/",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$0/month",
+          "note": null
+        },
+        {
+          "name": "Basic",
+          "price": "$2/unit + $28 platform fee",
+          "note": "$30/month for one unit"
+        },
+        {
+          "name": "Essential",
+          "price": "$20/unit + $28 platform fee",
+          "note": "$48/month for one unit; adds a repair coordinator"
+        }
+      ],
+      "screening": "$40 total, tenant-paid",
+      "ach": "No fee on paid plans",
+      "card": "3%",
+      "notes": [
+        "Optional listing syndication to 7 exclusive websites is $89 for 30 days."
+      ],
+      "sources": [
+        {
+          "label": "Hemlane pricing",
+          "url": "https://www.hemlane.com/pricing/"
+        }
+      ],
+      "bestFor": "Remote landlords who want repair coordination",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "zillow-rental-manager",
+      "name": "Zillow Rental Manager",
+      "category": "Listings + applications",
+      "website": "https://www.zillow.com/rental-manager/",
+      "pricingUrl": "https://www.zillow.help/article/paying-for-your-zillow-rental-manager-listings-zd30237393777555",
+      "plans": [
+        {
+          "name": "Listing",
+          "price": "Free",
+          "note": null
+        },
+        {
+          "name": "Premium listing",
+          "price": "$39.99 per listing",
+          "note": "up to 90 days; no auto-renew"
+        }
+      ],
+      "screening": "Free for landlords; renters pay $40 (reusable for 30 days)",
+      "ach": "Check provider",
+      "card": "Check provider",
+      "notes": [
+        "Free and premium listings include online screening and rent payments."
+      ],
+      "sources": [
+        {
+          "label": "Zillow help: paying for listings",
+          "url": "https://www.zillow.help/article/paying-for-your-zillow-rental-manager-listings-zd30237393777555"
+        },
+        {
+          "label": "Zillow Rental Manager tenant screening",
+          "url": "https://www.zillow.com/rental-manager/tenant-screening/"
+        }
+      ],
+      "bestFor": "Landlords who mainly need listing reach plus free applications",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "apartments-com-rental-manager",
+      "name": "Apartments.com Rental Manager",
+      "category": "Listings + applications",
+      "website": "https://www.apartments.com/rental-manager/",
+      "pricingUrl": "https://propertyhelp.apartments.com/article/13-applicant-cost",
+      "plans": [
+        {
+          "name": "Applications & screening",
+          "price": "Free for landlords",
+          "note": null
+        }
+      ],
+      "screening": "Applicants pay $32.00 + tax (shareable with up to 10 landlords for 30 days)",
+      "ach": "Check provider",
+      "card": "Check provider",
+      "notes": [
+        "Screening reports are from TransUnion."
+      ],
+      "sources": [
+        {
+          "label": "Apartments.com help: applicant cost",
+          "url": "https://propertyhelp.apartments.com/article/13-applicant-cost"
+        }
+      ],
+      "bestFor": "Landlords listing on Apartments.com who want free applications",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "rentprep",
+      "name": "RentPrep",
+      "category": "Tenant screening",
+      "website": "https://rentprep.com/",
+      "pricingUrl": "https://rentprep.com/guide/packages-pricing/",
+      "plans": [
+        {
+          "name": "Credit Report Only",
+          "price": "$29 per applicant",
+          "note": null
+        },
+        {
+          "name": "Full Background Check Only",
+          "price": "$29 per applicant",
+          "note": "landlord-pay only"
+        },
+        {
+          "name": "Complete Screening Package",
+          "price": "$49 per applicant",
+          "note": null
+        }
+      ],
+      "screening": "$29–$49 per applicant; add-ons $10 (income) or $15 (income + employment)",
+      "ach": "Not applicable",
+      "card": "Not applicable",
+      "notes": [
+        "RentPrep reports are now delivered by Stessa. Landlord- and tenant-pay options exist for the credit and complete packages; background-only is landlord-pay."
+      ],
+      "sources": [
+        {
+          "label": "RentPrep packages & pricing",
+          "url": "https://rentprep.com/guide/packages-pricing/"
+        }
+      ],
+      "bestFor": "Landlords who only need screening",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "transunion-smartmove",
+      "name": "TransUnion SmartMove",
+      "category": "Tenant screening",
+      "website": "https://www.mysmartmove.com/",
+      "pricingUrl": "https://www.mysmartmove.com/pricing",
+      "plans": [
+        {
+          "name": "Membership",
+          "price": "Free",
+          "note": "pay per report"
+        }
+      ],
+      "screening": "Pay-per-report packages (SmartCheck Premium, Plus, Basic); landlord or applicant can pay. Package prices: Check provider",
+      "ach": "Not applicable",
+      "card": "Not applicable",
+      "notes": [
+        "No memberships, subscriptions or minimums."
+      ],
+      "sources": [
+        {
+          "label": "SmartMove pricing",
+          "url": "https://www.mysmartmove.com/pricing"
+        }
+      ],
+      "bestFor": "Landlords who want TransUnion reports without software",
+      "checkedAt": "2026-11-26"
+    },
+    {
+      "slug": "steadily",
+      "name": "Steadily",
+      "category": "Landlord insurance",
+      "website": "https://www.steadily.com/",
+      "pricingUrl": "https://www.steadily.com/",
+      "plans": [
+        {
+          "name": "Landlord policy",
+          "price": "Quote-based",
+          "note": null
+        }
+      ],
+      "screening": "Not applicable",
+      "ach": "Not applicable",
+      "card": "Not applicable",
+      "notes": [
+        "Steadily does not publish fixed prices; premiums come from an online quote."
+      ],
+      "sources": [
+        {
+          "label": "Steadily",
+          "url": "https://www.steadily.com/"
+        }
+      ],
+      "bestFor": "Landlords shopping for rental property insurance",
+      "checkedAt": "2026-11-26"
+    }
+  ]
+}

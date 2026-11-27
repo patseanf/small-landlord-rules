@@ -1,0 +1,771 @@
+{
+  "rules": "Publish at most 2 items per night. Re-fetch the official source the same night; if a number can't be verified from an official source, skip the item and log it. Never guess.",
+  "updatedAt": "2026-11-26",
+  "items": [
+    {
+      "id": "state-rules:illinois",
+      "type": "state-rules",
+      "title": "Illinois landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "illinois",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:pennsylvania",
+      "type": "state-rules",
+      "title": "Pennsylvania landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "pennsylvania",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:georgia",
+      "type": "state-rules",
+      "title": "Georgia landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "georgia",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:new-jersey",
+      "type": "state-rules",
+      "title": "New Jersey landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "new-jersey",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:colorado",
+      "type": "state-rules",
+      "title": "Colorado landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "colorado",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:tennessee",
+      "type": "state-rules",
+      "title": "Tennessee landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "tennessee",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:indiana",
+      "type": "state-rules",
+      "title": "Indiana landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "indiana",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:missouri",
+      "type": "state-rules",
+      "title": "Missouri landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "missouri",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:maryland",
+      "type": "state-rules",
+      "title": "Maryland landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "maryland",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:wisconsin",
+      "type": "state-rules",
+      "title": "Wisconsin landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "wisconsin",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 1,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:minnesota",
+      "type": "state-rules",
+      "title": "Minnesota landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "minnesota",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:oregon",
+      "type": "state-rules",
+      "title": "Oregon landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "oregon",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:south-carolina",
+      "type": "state-rules",
+      "title": "South Carolina landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "south-carolina",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:alabama",
+      "type": "state-rules",
+      "title": "Alabama landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "alabama",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:louisiana",
+      "type": "state-rules",
+      "title": "Louisiana landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "louisiana",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:kentucky",
+      "type": "state-rules",
+      "title": "Kentucky landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "kentucky",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:oklahoma",
+      "type": "state-rules",
+      "title": "Oklahoma landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "oklahoma",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:connecticut",
+      "type": "state-rules",
+      "title": "Connecticut landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "connecticut",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:utah",
+      "type": "state-rules",
+      "title": "Utah landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "utah",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:nevada",
+      "type": "state-rules",
+      "title": "Nevada landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "nevada",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:iowa",
+      "type": "state-rules",
+      "title": "Iowa landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "iowa",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:arkansas",
+      "type": "state-rules",
+      "title": "Arkansas landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "arkansas",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:mississippi",
+      "type": "state-rules",
+      "title": "Mississippi landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "mississippi",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:kansas",
+      "type": "state-rules",
+      "title": "Kansas landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "kansas",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:new-mexico",
+      "type": "state-rules",
+      "title": "New Mexico landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "new-mexico",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:nebraska",
+      "type": "state-rules",
+      "title": "Nebraska landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "nebraska",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:idaho",
+      "type": "state-rules",
+      "title": "Idaho landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "idaho",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:west-virginia",
+      "type": "state-rules",
+      "title": "West Virginia landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "west-virginia",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:hawaii",
+      "type": "state-rules",
+      "title": "Hawaii landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "hawaii",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:new-hampshire",
+      "type": "state-rules",
+      "title": "New Hampshire landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "new-hampshire",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:maine",
+      "type": "state-rules",
+      "title": "Maine landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "maine",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:montana",
+      "type": "state-rules",
+      "title": "Montana landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "montana",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:rhode-island",
+      "type": "state-rules",
+      "title": "Rhode Island landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "rhode-island",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:delaware",
+      "type": "state-rules",
+      "title": "Delaware landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "delaware",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:south-dakota",
+      "type": "state-rules",
+      "title": "South Dakota landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "south-dakota",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:north-dakota",
+      "type": "state-rules",
+      "title": "North Dakota landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "north-dakota",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:alaska",
+      "type": "state-rules",
+      "title": "Alaska landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "alaska",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:district-of-columbia",
+      "type": "state-rules",
+      "title": "District of Columbia landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "district-of-columbia",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:vermont",
+      "type": "state-rules",
+      "title": "Vermont landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "vermont",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "state-rules:wyoming",
+      "type": "state-rules",
+      "title": "Wyoming landlord rules: deposit limit, return deadline, late fees, entry and notice",
+      "targetSlug": "wyoming",
+      "sourceHint": "Official state legislature code site or state AG/housing agency only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:california-late-fee",
+      "type": "rule",
+      "title": "California: Late fee rules",
+      "targetSlug": "california-late-fee",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:florida-deposit-cap",
+      "type": "rule",
+      "title": "Florida: Security deposit limit",
+      "targetSlug": "florida-deposit-cap",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:florida-late-fee",
+      "type": "rule",
+      "title": "Florida: Late fee rules",
+      "targetSlug": "florida-late-fee",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:massachusetts-entry-notice",
+      "type": "rule",
+      "title": "Massachusetts: Landlord entry notice",
+      "targetSlug": "massachusetts-entry-notice",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:michigan-late-fee",
+      "type": "rule",
+      "title": "Michigan: Late fee rules",
+      "targetSlug": "michigan-late-fee",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:michigan-entry-notice",
+      "type": "rule",
+      "title": "Michigan: Landlord entry notice",
+      "targetSlug": "michigan-entry-notice",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:new-york-entry-notice",
+      "type": "rule",
+      "title": "New York: Landlord entry notice",
+      "targetSlug": "new-york-entry-notice",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:north-carolina-entry-notice",
+      "type": "rule",
+      "title": "North Carolina: Landlord entry notice",
+      "targetSlug": "north-carolina-entry-notice",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:ohio-deposit-cap",
+      "type": "rule",
+      "title": "Ohio: Security deposit limit",
+      "targetSlug": "ohio-deposit-cap",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:ohio-late-fee",
+      "type": "rule",
+      "title": "Ohio: Late fee rules",
+      "targetSlug": "ohio-late-fee",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:texas-deposit-cap",
+      "type": "rule",
+      "title": "Texas: Security deposit limit",
+      "targetSlug": "texas-deposit-cap",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:texas-entry-notice",
+      "type": "rule",
+      "title": "Texas: Landlord entry notice",
+      "targetSlug": "texas-entry-notice",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "rule:washington-deposit-cap",
+      "type": "rule",
+      "title": "Washington: Security deposit limit",
+      "targetSlug": "washington-deposit-cap",
+      "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:tenantcloud",
+      "type": "tool",
+      "title": "TenantCloud: real fees for small landlords",
+      "targetSlug": "tenantcloud",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:landlord-studio",
+      "type": "tool",
+      "title": "Landlord Studio: real fees for small landlords",
+      "targetSlug": "landlord-studio",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:rentspree",
+      "type": "tool",
+      "title": "RentSpree: real fees for small landlords",
+      "targetSlug": "rentspree",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:appfolio",
+      "type": "tool",
+      "title": "AppFolio: real fees for small landlords",
+      "targetSlug": "appfolio",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:rentler",
+      "type": "tool",
+      "title": "Rentler: real fees for small landlords",
+      "targetSlug": "rentler",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:simplifyem",
+      "type": "tool",
+      "title": "SimplifyEm: real fees for small landlords",
+      "targetSlug": "simplifyem",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:tellus",
+      "type": "tool",
+      "title": "Tellus: real fees for small landlords",
+      "targetSlug": "tellus",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:azibo",
+      "type": "tool",
+      "title": "Azibo: real fees for small landlords",
+      "targetSlug": "azibo",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:rentdrop",
+      "type": "tool",
+      "title": "RentDrop: real fees for small landlords",
+      "targetSlug": "rentdrop",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "tool:landlordy",
+      "type": "tool",
+      "title": "Landlordy: real fees for small landlords",
+      "targetSlug": "landlordy",
+      "sourceHint": "Provider's own pricing/fee pages only",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:turbotenant-vs-rentredi",
+      "type": "compare",
+      "title": "turbotenant vs rentredi: fees compared",
+      "targetSlug": "turbotenant-vs-rentredi",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:turbotenant-vs-innago",
+      "type": "compare",
+      "title": "turbotenant vs innago: fees compared",
+      "targetSlug": "turbotenant-vs-innago",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:avail-vs-innago",
+      "type": "compare",
+      "title": "avail vs innago: fees compared",
+      "targetSlug": "avail-vs-innago",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:baselane-vs-turbotenant",
+      "type": "compare",
+      "title": "baselane vs turbotenant: fees compared",
+      "targetSlug": "baselane-vs-turbotenant",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:rentec-direct-vs-buildium",
+      "type": "compare",
+      "title": "rentec-direct vs buildium: fees compared",
+      "targetSlug": "rentec-direct-vs-buildium",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:doorloop-vs-buildium",
+      "type": "compare",
+      "title": "doorloop vs buildium: fees compared",
+      "targetSlug": "doorloop-vs-buildium",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:hemlane-vs-turbotenant",
+      "type": "compare",
+      "title": "hemlane vs turbotenant: fees compared",
+      "targetSlug": "hemlane-vs-turbotenant",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:rentprep-vs-transunion-smartmove",
+      "type": "compare",
+      "title": "rentprep vs transunion-smartmove: fees compared",
+      "targetSlug": "rentprep-vs-transunion-smartmove",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:zillow-rental-manager-vs-apartments-com-rental-manager",
+      "type": "compare",
+      "title": "zillow-rental-manager vs apartments-com-rental-manager: fees compared",
+      "targetSlug": "zillow-rental-manager-vs-apartments-com-rental-manager",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:stessa-vs-rentredi",
+      "type": "compare",
+      "title": "stessa vs rentredi: fees compared",
+      "targetSlug": "stessa-vs-rentredi",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:avail-vs-rentredi",
+      "type": "compare",
+      "title": "avail vs rentredi: fees compared",
+      "targetSlug": "avail-vs-rentredi",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "compare:doorloop-vs-rentec-direct",
+      "type": "compare",
+      "title": "doorloop vs rentec-direct: fees compared",
+      "targetSlug": "doorloop-vs-rentec-direct",
+      "sourceHint": "Both providers' pricing pages, re-checked the same night",
+      "priority": 2,
+      "status": "queued"
+    },
+    {
+      "id": "city:chicago-rlto",
+      "type": "city",
+      "title": "Chicago Residential Landlord and Tenant Ordinance (RLTO)",
+      "targetSlug": "chicago-rlto",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:new-york-city",
+      "type": "city",
+      "title": "New York City local rules for landlords",
+      "targetSlug": "new-york-city",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:seattle",
+      "type": "city",
+      "title": "Seattle local landlord-tenant rules",
+      "targetSlug": "seattle",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:san-francisco",
+      "type": "city",
+      "title": "San Francisco rent ordinance basics",
+      "targetSlug": "san-francisco",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:los-angeles",
+      "type": "city",
+      "title": "Los Angeles rent stabilization (RSO) basics",
+      "targetSlug": "los-angeles",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:washington-dc",
+      "type": "city",
+      "title": "Washington, DC landlord-tenant rules",
+      "targetSlug": "washington-dc",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:portland-or",
+      "type": "city",
+      "title": "Portland, OR local rental rules",
+      "targetSlug": "portland-or",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:minneapolis",
+      "type": "city",
+      "title": "Minneapolis tenant protections",
+      "targetSlug": "minneapolis",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:philadelphia",
+      "type": "city",
+      "title": "Philadelphia landlord rules",
+      "targetSlug": "philadelphia",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    },
+    {
+      "id": "city:denver",
+      "type": "city",
+      "title": "Denver rental licensing and rules",
+      "targetSlug": "denver",
+      "sourceHint": "City/county code or official housing department page",
+      "priority": 3,
+      "status": "queued"
+    }
+  ]
+}

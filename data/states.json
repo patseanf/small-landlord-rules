@@ -1,0 +1,1247 @@
+{
+  "topics": {
+    "deposit-cap": "Security deposit limit",
+    "deposit-return": "Security deposit return deadline",
+    "late-fee": "Late fee rules",
+    "entry-notice": "Landlord entry notice",
+    "termination-notice": "Ending a month-to-month tenancy"
+  },
+  "states": [
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "slug": "alabama",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "slug": "alaska",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "slug": "arizona",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "1.5 months' rent (including prepaid rent)",
+          "detail": "Total security, including prepaid rent, cannot exceed one and one-half months' rent. A tenant may still voluntarily prepay more rent.",
+          "quote": "A landlord shall not demand or receive security, however denominated, including prepaid rent in an amount or value of more than one and one-half month's rent.",
+          "citation": "A.R.S. § 33-1321(A)",
+          "sourceUrl": "https://www.azleg.gov/ars/33/01321.htm",
+          "sourceName": "Arizona State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "arizona-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "14 days (excluding weekends and legal holidays) after move-out and the tenant's demand",
+          "detail": "After the tenancy ends, possession is delivered and the tenant asks, the landlord has 14 business days to send an itemized list of deductions and any amount owed.",
+          "quote": "Within fourteen days, excluding Saturdays, Sundays or other legal holidays, after termination of the tenancy and delivery of possession and demand by the tenant the landlord shall provide the tenant an itemized list of all deductions together with the amount due",
+          "citation": "A.R.S. § 33-1321(D)",
+          "sourceUrl": "https://www.azleg.gov/ars/33/01321.htm",
+          "sourceName": "Arizona State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "arizona-deposit-return"
+        },
+        {
+          "topic": "entry-notice",
+          "title": "Landlord entry notice",
+          "answer": "At least 2 days' notice",
+          "detail": "Except in emergencies or where impracticable, the landlord must give at least two days' notice and enter only at reasonable times.",
+          "quote": "the landlord shall give the tenant at least two days' notice of the landlord’s intent to enter and enter only at reasonable times.",
+          "citation": "A.R.S. § 33-1343(D)",
+          "sourceUrl": "https://www.azleg.gov/ars/33/01343.htm",
+          "sourceName": "Arizona State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "arizona-entry-notice"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "Must be reasonable and set out in a written rental agreement (no dollar cap in this section)",
+          "detail": "The statute refers to a reasonable late fee set forth in a written rental agreement. Section 33-1368 does not set a dollar or percentage cap.",
+          "quote": "the rental agreement shall be reinstated if the tenant tenders all past due and unpaid periodic rent and a reasonable late fee set forth in a written rental agreement.",
+          "citation": "A.R.S. § 33-1368(B)",
+          "sourceUrl": "https://www.azleg.gov/ars/33/01368.htm",
+          "sourceName": "Arizona State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "arizona-late-fee"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "30 days' written notice before the periodic rental date",
+          "detail": "Either the landlord or tenant may end a month-to-month tenancy with written notice at least 30 days before the rental date named in the notice.",
+          "quote": "The landlord or the tenant may terminate a month-to-month tenancy by a written notice given to the other at least thirty days prior to the periodic rental date specified in the notice.",
+          "citation": "A.R.S. § 33-1375(B)",
+          "sourceUrl": "https://www.azleg.gov/ars/33/01375.htm",
+          "sourceName": "Arizona State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "arizona-termination-notice"
+        }
+      ],
+      "pendingTopics": []
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "slug": "arkansas",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "slug": "california",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "1 month's rent (2 months for qualifying small landlords)",
+          "detail": "A landlord may not take security above one month's rent, on top of first month's rent. A landlord who is a natural person (or an LLC whose members are all natural persons) and owns no more than two rental properties with no more than four units in total may take up to two months' rent. The two-month exception does not apply when the prospective tenant is a service member.",
+          "quote": "a landlord shall not demand or receive security, however denominated, in an amount or value in excess of an amount equal to one month’s rent, in addition to any rent for the first month paid on or before initial occupancy.",
+          "citation": "Cal. Civ. Code § 1950.5(c)",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1950.5",
+          "sourceName": "California Legislative Information",
+          "checkedAt": "2026-11-26",
+          "slug": "california-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "21 calendar days after the tenant moves out",
+          "detail": "Within 21 calendar days after the tenant has vacated, the landlord must send an itemized statement of deductions and return the rest of the deposit.",
+          "quote": "No later than 21 calendar days after the tenant has vacated the premises ... the landlord shall furnish the tenant, a copy of an itemized statement indicating the basis for, and the amount of, any security received and the disposition of the security, and shall return any remaining portion of the security to the tenant",
+          "citation": "Cal. Civ. Code § 1950.5(h)(1)",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1950.5",
+          "sourceName": "California Legislative Information",
+          "checkedAt": "2026-11-26",
+          "slug": "california-deposit-return"
+        },
+        {
+          "topic": "entry-notice",
+          "title": "Landlord entry notice",
+          "answer": "Reasonable written notice; 24 hours is presumed reasonable",
+          "detail": "Outside emergencies, the landlord must give reasonable written notice and enter during normal business hours. The notice must give the date, approximate time and purpose. Mailed notice sent at least six days ahead is presumed reasonable.",
+          "quote": "Twenty-four hours shall be presumed to be reasonable notice in absence of evidence to the contrary.",
+          "citation": "Cal. Civ. Code § 1954(d)(1)",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1954",
+          "sourceName": "California Legislative Information",
+          "checkedAt": "2026-11-26",
+          "slug": "california-entry-notice"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "Owner: 60 days (30 days if the tenant has lived there under 1 year)",
+          "detail": "An owner ending a periodic residential tenancy under this section must give at least 60 days' written notice, or 30 days if the tenant has lived there less than one year. A tenant must give notice at least as long as the rent period. Other California laws, including just-cause eviction rules, may also apply.",
+          "quote": "An owner of a residential dwelling ... giving notice pursuant to this section shall give notice at least 60 days prior to the proposed date of termination. A tenant giving notice pursuant to this section shall give notice for a period at least as long as the term of the periodic tenancy prior to the proposed date of termination.",
+          "citation": "Cal. Civ. Code § 1946.1(b)–(c)",
+          "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1946.1",
+          "sourceName": "California Legislative Information",
+          "checkedAt": "2026-11-26",
+          "slug": "california-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "late-fee"
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "slug": "colorado",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "slug": "connecticut",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "slug": "delaware",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "DC",
+      "name": "District of Columbia",
+      "slug": "district-of-columbia",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "slug": "florida",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "15 days if no claim; 30 days to send notice of a claim",
+          "detail": "If the landlord is not claiming any of the deposit, it must be returned within 15 days after the lease ends. To claim part of it, the landlord must send written notice of the claim within 30 days, by certified mail or e-mail as allowed by s. 83.505. Missing the 30-day notice forfeits the right to take the claim out of the deposit.",
+          "quote": "the landlord must return the security deposit, together with interest if otherwise required, within 15 days after the termination of the rental agreement. If the landlord intends to impose a claim on the deposit, the landlord must, within 30 days after the termination of the rental agreement, provide the tenant written notice",
+          "citation": "Fla. Stat. § 83.49(3)(a)",
+          "sourceUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.49.html",
+          "sourceName": "The Florida Senate / Online Sunshine",
+          "checkedAt": "2026-11-26",
+          "slug": "florida-deposit-return"
+        },
+        {
+          "topic": "entry-notice",
+          "title": "Landlord entry notice",
+          "answer": "24 hours' notice for repairs, between 7:30 a.m. and 8:00 p.m.",
+          "detail": "For repairs, reasonable notice means at least 24 hours, and a reasonable time is between 7:30 a.m. and 8:00 p.m. A landlord may enter at any time to protect or preserve the premises.",
+          "quote": "“Reasonable notice” for the purpose of repair is notice given at least 24 hours prior to the entry, and reasonable time for the purpose of repair shall be between the hours of 7:30 a.m. and 8:00 p.m.",
+          "citation": "Fla. Stat. § 83.53(2)",
+          "sourceUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.53.html",
+          "sourceName": "The Florida Senate / Online Sunshine",
+          "checkedAt": "2026-11-26",
+          "slug": "florida-entry-notice"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "Not less than 30 days before the end of a monthly period",
+          "detail": "Either party may end a month-to-month tenancy with written notice of not less than 30 days before the end of any monthly period.",
+          "quote": "When the tenancy is from month to month, by giving not less than 30 days’ notice prior to the end of any monthly period",
+          "citation": "Fla. Stat. § 83.57(3)",
+          "sourceUrl": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html",
+          "sourceName": "The Florida Senate / Online Sunshine",
+          "checkedAt": "2026-11-26",
+          "slug": "florida-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "deposit-cap",
+        "late-fee"
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "slug": "georgia",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "slug": "hawaii",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "slug": "idaho",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "slug": "illinois",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "slug": "indiana",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "slug": "iowa",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "slug": "kansas",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "slug": "kentucky",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "slug": "louisiana",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "slug": "maine",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "slug": "maryland",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "slug": "massachusetts",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "1 month's rent (the first month's rent amount)",
+          "detail": "At the start of a tenancy a landlord may collect no more than first month's rent, last month's rent and a security deposit equal to the first month's rent (plus a lock-and-key cost), subject to the statute's conditions.",
+          "quote": "a security deposit equal to the first month's rent provided that such security deposit is deposited as required by subsection (3) and that the tenant is given the statement of condition as required by subsection (2)",
+          "citation": "Mass. Gen. Laws ch. 186, § 15B(1)(b)",
+          "sourceUrl": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15B",
+          "sourceName": "The 194th General Court of Massachusetts",
+          "checkedAt": "2026-11-26",
+          "slug": "massachusetts-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 30 days after the tenancy ends",
+          "detail": "The landlord must return the deposit, or the balance after lawful deductions, within 30 days after the tenancy ends.",
+          "quote": "The lessor shall, within thirty days after the termination of occupancy under a tenancy-at-will or the end of the tenancy as specified in a valid written lease agreement, return to the tenant the security deposit or any balance thereof",
+          "citation": "Mass. Gen. Laws ch. 186, § 15B(4)",
+          "sourceUrl": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15B",
+          "sourceName": "The 194th General Court of Massachusetts",
+          "checkedAt": "2026-11-26",
+          "slug": "massachusetts-deposit-return"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "No interest or penalty until rent is 30 days late",
+          "detail": "A lease cannot impose interest or a penalty for late rent until 30 days after the rent was due.",
+          "quote": "No lease or other rental agreement shall impose any interest or penalty for failure to pay rent until thirty days after such rent shall have been due.",
+          "citation": "Mass. Gen. Laws ch. 186, § 15B(1)(c)",
+          "sourceUrl": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15B",
+          "sourceName": "The 194th General Court of Massachusetts",
+          "checkedAt": "2026-11-26",
+          "slug": "massachusetts-late-fee"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a tenancy at will",
+          "answer": "Rent interval or 30 days, whichever is longer",
+          "detail": "A tenancy at will with monthly rent ends with written notice equal to the interval between rent days or 30 days, whichever is longer.",
+          "quote": "the time of such notice shall be sufficient if it is equal to the interval between the days of payment or thirty days, whichever is longer.",
+          "citation": "Mass. Gen. Laws ch. 186, § 12",
+          "sourceUrl": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12",
+          "sourceName": "The 194th General Court of Massachusetts",
+          "checkedAt": "2026-11-26",
+          "slug": "massachusetts-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "entry-notice"
+      ]
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "slug": "michigan",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "1.5 months' rent",
+          "detail": "A security deposit may not exceed one and one-half months' rent.",
+          "quote": "A security deposit shall be required and maintained in accordance with the terms of this act and shall not exceed 1 1/2 months' rent.",
+          "citation": "MCL 554.602",
+          "sourceUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-602",
+          "sourceName": "Michigan Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "michigan-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit damage notice deadline",
+          "answer": "Itemized notice of damages within 30 days after occupancy ends",
+          "detail": "To keep any of the deposit for damage, the landlord must mail an itemized notice of damages within 30 days after the tenant's occupancy ends.",
+          "quote": "the landlord shall mail to the tenant, within 30 days after the termination of occupancy, a notice of damages that contains an itemized list of damages claimed",
+          "citation": "MCL 554.609(1)",
+          "sourceUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-609",
+          "sourceName": "Michigan Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "michigan-deposit-return"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a tenancy at will",
+          "answer": "1 month's notice (or the rent interval, if rent is paid more often)",
+          "detail": "A tenancy at will may be ended by either party with one month's notice. If rent is payable at periods of less than three months, notice equal to the interval between payments is sufficient.",
+          "quote": "an estate at will or by sufferance may be terminated by either party by giving 1 month's notice to the other party.",
+          "citation": "MCL 554.134(1)",
+          "sourceUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-134",
+          "sourceName": "Michigan Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "michigan-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "late-fee",
+        "entry-notice"
+      ]
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "slug": "minnesota",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "slug": "mississippi",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "slug": "missouri",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "slug": "montana",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "slug": "nebraska",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "slug": "nevada",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "slug": "new-hampshire",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "slug": "new-jersey",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "slug": "new-mexico",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "slug": "new-york",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "No more than 1 month's rent",
+          "detail": "A security deposit is limited to one month's rent. The New York Attorney General notes this means a landlord cannot ask for last month's rent and a security deposit.",
+          "quote": "all tenants can be required to give their landlord a security deposit, but it is limited to no more than one month’s rent.",
+          "citation": "NY Attorney General, Residential Tenant’s Rights Guide (Security Deposits)",
+          "sourceUrl": "https://ag.ny.gov/sites/default/files/tenants_rights.pdf",
+          "sourceName": "New York State Attorney General",
+          "checkedAt": "2026-11-26",
+          "slug": "new-york-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 14 days of move-out (non-regulated units)",
+          "detail": "For units that are not rent stabilized or rent controlled, the deposit must be returned within 14 days of move-out, with an itemized statement for any deductions. Without that statement in 14 days, the whole deposit must be returned.",
+          "quote": "the landlord must return the security deposit within 14 days of the tenant moving out.",
+          "citation": "NY Attorney General, Residential Tenant’s Rights Guide (Getting Your Security Deposit Back)",
+          "sourceUrl": "https://ag.ny.gov/sites/default/files/tenants_rights.pdf",
+          "sourceName": "New York State Attorney General",
+          "checkedAt": "2026-11-26",
+          "slug": "new-york-deposit-return"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "Late only after 5 days; max is the lesser of $50 or 5% of monthly rent",
+          "detail": "Rent counts as late only if it arrives more than five days after it is due, and the late fee can be no more than $50 or 5% of the monthly rent, whichever is less.",
+          "quote": "A rent payment can only be considered late if it is received more than five days after it is due. The most your landlord can charge as a late fee is $50 or 5% of your monthly rent, whichever is less (Real Property Law § 238-a).",
+          "citation": "N.Y. Real Prop. Law § 238-a (per NY AG guide)",
+          "sourceUrl": "https://ag.ny.gov/sites/default/files/tenants_rights.pdf",
+          "sourceName": "New York State Attorney General",
+          "checkedAt": "2026-11-26",
+          "slug": "new-york-late-fee"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Non-renewal and rent increase notice",
+          "answer": "Non-renewal or 5%+ increase: 30, 60 or 90 days' notice depending on tenure",
+          "detail": "Before not renewing a lease or raising rent more than 5%, a landlord must give 30 days' notice (under 1 year), 60 days (1–2 years) or 90 days (2+ years or a 2-year lease).",
+          "quote": "If you have lived in your apartment for less than one year, or have a lease for less than one year, your landlord must provide you with 30 days advanced notice before raising your rent or not renewing your lease. (Real Property Law § 226-c).",
+          "citation": "N.Y. Real Prop. Law § 226-c (per NY AG guide)",
+          "sourceUrl": "https://ag.ny.gov/sites/default/files/tenants_rights.pdf",
+          "sourceName": "New York State Attorney General",
+          "checkedAt": "2026-11-26",
+          "slug": "new-york-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "entry-notice"
+      ]
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "slug": "north-carolina",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "1.5 months' rent for month-to-month; 2 months for longer terms; 2 weeks for week-to-week",
+          "detail": "The cap depends on the tenancy: two weeks' rent (week-to-week), one and one-half months' rent (month-to-month), two months' rent (terms longer than month-to-month).",
+          "quote": "The security deposit shall not exceed an amount equal to two weeks' rent if a tenancy is week to week, one and one-half months' rent if a tenancy is month to month, and two months' rent for terms greater than month to month.",
+          "citation": "N.C. Gen. Stat. § 42-51(b)",
+          "sourceUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_42/GS_42-51.html",
+          "sourceName": "North Carolina General Assembly",
+          "checkedAt": "2026-11-26",
+          "slug": "north-carolina-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 30 days (interim accounting allowed; final within 60 days)",
+          "detail": "The landlord must itemize damage and return the balance within 30 days after the tenancy ends. If the claim can't be determined in 30 days, an interim accounting is due in 30 days and a final one within 60.",
+          "quote": "no later than 30 days after termination of the tenancy and delivery of possession of the premises to the landlord.",
+          "citation": "N.C. Gen. Stat. § 42-52",
+          "sourceUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_42/GS_42-52.html",
+          "sourceName": "North Carolina General Assembly",
+          "checkedAt": "2026-11-26",
+          "slug": "north-carolina-deposit-return"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "Only after 5 days late; monthly rent: the greater of $15 or 5%",
+          "detail": "A late fee may be charged only when rent is five calendar days or more late. For monthly rent, the cap is $15 or 5% of the monthly rent, whichever is greater.",
+          "quote": "If the rent: (1) Is due in monthly installments, a landlord may charge a late fee not to exceed fifteen dollars ($15.00) or five percent (5%) of the monthly rent, whichever is greater.",
+          "citation": "N.C. Gen. Stat. § 42-46(a)",
+          "sourceUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_42/GS_42-46.html",
+          "sourceName": "North Carolina General Assembly",
+          "checkedAt": "2026-11-26",
+          "slug": "north-carolina-late-fee"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "7 days' notice for month-to-month",
+          "detail": "A month-to-month tenancy ends with seven days' notice; week-to-week with two days; year-to-year with one month.",
+          "quote": "a tenancy from month to month by a like notice of seven days; a tenancy from week to week, of two days.",
+          "citation": "N.C. Gen. Stat. § 42-14",
+          "sourceUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_42/GS_42-14.html",
+          "sourceName": "North Carolina General Assembly",
+          "checkedAt": "2026-11-26",
+          "slug": "north-carolina-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "entry-notice"
+      ]
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "slug": "north-dakota",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "slug": "ohio",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 30 days after the lease ends and possession is delivered",
+          "detail": "Itemized deductions and any refund are due within 30 days. The tenant must give the landlord a forwarding address in writing.",
+          "quote": "Any deduction from the security deposit shall be itemized and identified by the landlord in a written notice delivered to the tenant together with the amount due, within thirty days after termination of the rental agreement and delivery of possession.",
+          "citation": "Ohio Rev. Code § 5321.16(B)",
+          "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/section-5321.16",
+          "sourceName": "Ohio Laws (Legislative Service Commission)",
+          "checkedAt": "2026-11-26",
+          "slug": "ohio-deposit-return"
+        },
+        {
+          "topic": "entry-notice",
+          "title": "Landlord entry notice",
+          "answer": "Reasonable notice; 24 hours is presumed reasonable",
+          "detail": "Except in emergencies or where impracticable, the landlord must give reasonable notice and enter at reasonable times. 24 hours is presumed reasonable.",
+          "quote": "Twenty-four hours is presumed to be a reasonable notice in the absence of evidence to the contrary.",
+          "citation": "Ohio Rev. Code § 5321.04(A)(8)",
+          "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/section-5321.04",
+          "sourceName": "Ohio Laws (Legislative Service Commission)",
+          "checkedAt": "2026-11-26",
+          "slug": "ohio-entry-notice"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "30 days before the periodic rental date",
+          "detail": "Either side may end or not renew a month-to-month tenancy with notice at least 30 days before the periodic rental date.",
+          "quote": "the landlord or the tenant may terminate or fail to renew a month-to-month tenancy by notice given the other at least thirty days prior to the periodic rental date.",
+          "citation": "Ohio Rev. Code § 5321.17(B)",
+          "sourceUrl": "https://codes.ohio.gov/ohio-revised-code/section-5321.17",
+          "sourceName": "Ohio Laws (Legislative Service Commission)",
+          "checkedAt": "2026-11-26",
+          "slug": "ohio-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "deposit-cap",
+        "late-fee"
+      ]
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "slug": "oklahoma",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "slug": "oregon",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "slug": "pennsylvania",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "slug": "rhode-island",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "slug": "south-carolina",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "slug": "south-dakota",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "slug": "tennessee",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "slug": "texas",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "On or before the 30th day after the tenant surrenders the unit",
+          "detail": "The landlord must refund the security deposit (less lawful deductions) by the 30th day after the tenant surrenders the premises.",
+          "quote": "the landlord shall refund a security deposit to the tenant on or before the 30th day after the date the tenant surrenders the premises.",
+          "citation": "Tex. Prop. Code § 92.103(a)",
+          "sourceUrl": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.92.htm#92.103",
+          "sourceName": "Texas Constitution and Statutes",
+          "checkedAt": "2026-11-26",
+          "slug": "texas-deposit-return"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "Only after rent is unpaid 2 full days; up to 12% (≤4 units) or 10% (>4 units) is presumed reasonable",
+          "detail": "A late fee requires notice in a written lease, must be reasonable, and can only be charged once rent has stayed unpaid two full days after the due date. A fee of no more than 12% of the month's rent (buildings with four or fewer units) or 10% (more than four units) is considered reasonable.",
+          "quote": "any portion of the tenant's rent has remained unpaid two full days after the date the rent was originally due.",
+          "citation": "Tex. Prop. Code § 92.019",
+          "sourceUrl": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.92.htm#92.019",
+          "sourceName": "Texas Constitution and Statutes",
+          "checkedAt": "2026-11-26",
+          "slug": "texas-late-fee"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "At least one month (tenancy ends the later of the notice date or one month after notice)",
+          "detail": "Either side may end a month-to-month tenancy by notice. When the rent period is at least a month, the tenancy ends on the later of the date in the notice or one month after the notice is given, unless the parties agree otherwise in writing.",
+          "quote": "the tenancy terminates on whichever of the following days is the later: (1) the day given in the notice for termination; or (2) one month after the day on which the notice is given.",
+          "citation": "Tex. Prop. Code § 91.001(b)",
+          "sourceUrl": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.91.htm#91.001",
+          "sourceName": "Texas Constitution and Statutes",
+          "checkedAt": "2026-11-26",
+          "slug": "texas-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "deposit-cap",
+        "entry-notice"
+      ]
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "slug": "utah",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "slug": "vermont",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "slug": "virginia",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "2 months' rent",
+          "detail": "A landlord may not demand or receive a security deposit above two months' periodic rent.",
+          "quote": "No landlord may demand or receive a security deposit, however denominated, in an amount or value in excess of two months' periodic rent.",
+          "citation": "Va. Code § 55.1-1226(A)",
+          "sourceUrl": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1226/",
+          "sourceName": "Code of Virginia (Virginia Law Library)",
+          "checkedAt": "2026-11-26",
+          "slug": "virginia-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 45 days after the tenancy ends or the tenant vacates (whichever is later)",
+          "detail": "Deductions must be itemized in a written notice given with any amount due within 45 days.",
+          "quote": "The security deposit and any deductions, damages, and charges shall be itemized by the landlord in a written notice given to the tenant, together with any amount due to the tenant, within 45 days after the termination date of the tenancy or the date the tenant vacates the dwelling unit, whichever occurs last.",
+          "citation": "Va. Code § 55.1-1226",
+          "sourceUrl": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1226/",
+          "sourceName": "Code of Virginia (Virginia Law Library)",
+          "checkedAt": "2026-11-26",
+          "slug": "virginia-deposit-return"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "Must be in the written lease; max is the lesser of 10% of rent or 10% of the balance due",
+          "detail": "A late charge must be in the written rental agreement and cannot exceed the lesser of 10% of the periodic rent or 10% of the remaining balance owed.",
+          "quote": "No such late charge shall exceed the lesser of 10 percent of the periodic rent or 10 percent of the remaining balance due and owed by the tenant.",
+          "citation": "Va. Code § 55.1-1204(E)",
+          "sourceUrl": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1204/",
+          "sourceName": "Code of Virginia (Virginia Law Library)",
+          "checkedAt": "2026-11-26",
+          "slug": "virginia-late-fee"
+        },
+        {
+          "topic": "entry-notice",
+          "title": "Landlord entry notice",
+          "answer": "72 hours' notice for routine maintenance the tenant didn't request",
+          "detail": "Landlords must give notice and enter at reasonable times; for routine maintenance not requested by the tenant, at least 72 hours' notice is required, and the work must happen within 14 days.",
+          "quote": "Unless impractical to do so, the landlord shall give the tenant at least 72 hours' notice of routine maintenance to be performed that has not been requested by the tenant.",
+          "citation": "Va. Code § 55.1-1229",
+          "sourceUrl": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1229/",
+          "sourceName": "Code of Virginia (Virginia Law Library)",
+          "checkedAt": "2026-11-26",
+          "slug": "virginia-entry-notice"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Ending a month-to-month tenancy",
+          "answer": "30 days' written notice before the next rent due date (unless the lease says otherwise)",
+          "detail": "Either party may end a month-to-month tenancy with written notice at least 30 days before the next rent due date, unless the rental agreement sets a different period.",
+          "quote": "The landlord or the tenant may terminate a month-to-month tenancy by serving a written notice on the other at least 30 days prior to the next rent due date, unless the rental agreement provides for a different notice period.",
+          "citation": "Va. Code § 55.1-1253(A)",
+          "sourceUrl": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1253/",
+          "sourceName": "Code of Virginia (Virginia Law Library)",
+          "checkedAt": "2026-11-26",
+          "slug": "virginia-termination-notice"
+        }
+      ],
+      "pendingTopics": []
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "slug": "washington",
+      "status": "verified",
+      "checkedAt": "2026-11-26",
+      "rules": [
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 30 days after the tenancy ends and the tenant vacates",
+          "detail": "Within 30 days, the landlord must give a full and specific statement of the basis for keeping any of the deposit, with required documentation, plus any refund due.",
+          "quote": "Within 30 days after the termination of the rental agreement and vacation of the premises ... the landlord shall give a full and specific statement of the basis for retaining any of the deposit",
+          "citation": "RCW 59.18.280(1)(a)",
+          "sourceUrl": "https://app.leg.wa.gov/RCW/default.aspx?cite=59.18.280",
+          "sourceName": "Washington State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "washington-deposit-return"
+        },
+        {
+          "topic": "entry-notice",
+          "title": "Landlord entry notice",
+          "answer": "At least 2 days' written notice",
+          "detail": "Outside emergencies, the landlord must give at least two days' written notice stating the date and time (or time window) of entry, and enter only at reasonable times.",
+          "quote": "the landlord shall give the tenant at least two days' written notice of his or her intent to enter and shall enter only at reasonable times.",
+          "citation": "RCW 59.18.150",
+          "sourceUrl": "https://app.leg.wa.gov/RCW/default.aspx?cite=59.18.150",
+          "sourceName": "Washington State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "washington-entry-notice"
+        },
+        {
+          "topic": "late-fee",
+          "title": "Late fee rules",
+          "answer": "No late fee if rent is paid within 5 days of the due date",
+          "detail": "A landlord cannot charge a late fee for rent paid within five days after it is due. After that, late fees may run from the first day after the due date.",
+          "quote": "The landlord may not charge a late fee for rent that is paid within five days following its due date.",
+          "citation": "RCW 59.18.170(2)",
+          "sourceUrl": "https://app.leg.wa.gov/RCW/default.aspx?cite=59.18.170",
+          "sourceName": "Washington State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "washington-late-fee"
+        },
+        {
+          "topic": "termination-notice",
+          "title": "Tenant notice to end a month-to-month tenancy",
+          "answer": "Tenant: 20 days' written notice before the end of a rental period",
+          "detail": "A month-to-month tenant ends the tenancy with written notice of 20 days or more before the end of a rental period. Landlord-initiated terminations are governed by other sections of RCW 59.18 and are not summarized here.",
+          "quote": "such tenancy ... shall end by written notice of 20 days or more, preceding the end of any of the months or periods of tenancy, given by the tenant to the landlord.",
+          "citation": "RCW 59.18.200(1)(a)",
+          "sourceUrl": "https://app.leg.wa.gov/RCW/default.aspx?cite=59.18.200",
+          "sourceName": "Washington State Legislature",
+          "checkedAt": "2026-11-26",
+          "slug": "washington-termination-notice"
+        }
+      ],
+      "pendingTopics": [
+        "deposit-cap"
+      ]
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "slug": "west-virginia",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "slug": "wisconsin",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "status": "queued",
+      "checkedAt": null,
+      "rules": [],
+      "pendingTopics": [
+        "deposit-cap",
+        "deposit-return",
+        "late-fee",
+        "entry-notice",
+        "termination-notice"
+      ]
+    }
+  ]
+}

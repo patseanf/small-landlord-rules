@@ -568,6 +568,45 @@
       ],
       "bestFor": "Landlords who want a free starting plan with optional leasing and accounting upgrades",
       "checkedAt": "2026-11-27"
+    },
+    {
+      "slug": "landlord-studio",
+      "name": "Landlord Studio",
+      "category": "Landlord accounting and rent collection software",
+      "website": "https://www.landlordstudio.com/",
+      "pricingUrl": "https://www.landlordstudio.com/pricing",
+      "plans": [
+        {
+          "name": "Go",
+          "price": "$0/month",
+          "note": "Free for up to 3 units"
+        },
+        {
+          "name": "Pro",
+          "price": "$12.00/month",
+          "note": "$144 annually; includes 3 units, then $1.00 per extra unit (yearly billing) or $1.20 (monthly)"
+        },
+        {
+          "name": "Pro Plus",
+          "price": "Check provider",
+          "note": "Priced by unit count (3 units included, then per extra unit); exact price shown on provider page after choosing unit count"
+        }
+      ],
+      "screening": "Tenant pays from $45; landlord pays $0",
+      "ach": "Landlord pays $0; tenant pays $2.50",
+      "card": "Landlord pays $0; tenant pays 3.49%",
+      "notes": [
+        "Pro adds bank feeds, automated rent reminders and Schedule E reports; Pro Plus adds more users and a dedicated account manager.",
+        "The provider notes that rules on passing payment and application fees to tenants vary by state."
+      ],
+      "sources": [
+        {
+          "label": "Landlord Studio pricing",
+          "url": "https://www.landlordstudio.com/pricing"
+        }
+      ],
+      "bestFor": "Small landlords who want free rent collection for up to 3 units plus expense tracking and tax reports",
+      "checkedAt": "2026-11-27"
     }
   ]
 }

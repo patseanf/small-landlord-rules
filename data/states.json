@@ -941,12 +941,35 @@
       "code": "PA",
       "name": "Pennsylvania",
       "slug": "pennsylvania",
-      "status": "queued",
-      "checkedAt": null,
-      "rules": [],
+      "status": "verified",
+      "checkedAt": "2026-11-27",
+      "rules": [
+        {
+          "topic": "deposit-cap",
+          "title": "Security deposit limit",
+          "answer": "Two months' rent in the first year of a lease; one month's rent in the second and later years and in renewals",
+          "detail": "A landlord may not require more than two months' rent in escrow during the first year of any lease. During the second and subsequent years, or any renewal, the amount may not exceed one month's rent. This applies only to residential property, and a tenant's waiver is void.",
+          "quote": "No landlord may require a sum in excess of two months' rent to be deposited in escrow for the payment of damages to the leasehold premises and/or default in rent thereof during the first year of any lease.",
+          "citation": "68 P.S. 250.511a (Landlord and Tenant Act of 1951, Section 511.1)",
+          "sourceUrl": "https://www.legis.state.pa.us/WU01/LI/LI/US/HTM/1951/0/0020.005.000.011.001..HTM",
+          "sourceName": "Pennsylvania General Assembly (Landlord and Tenant Act of 1951)",
+          "checkedAt": "2026-11-27",
+          "slug": "pennsylvania-deposit-cap"
+        },
+        {
+          "topic": "deposit-return",
+          "title": "Security deposit return deadline",
+          "answer": "Within 30 days of lease termination or surrender: written list of damages plus payment of the balance",
+          "detail": "Within thirty days of termination of the lease or surrender and acceptance of the premises, the landlord must give the tenant a written list of claimed damages, together with payment of the difference between the escrow (with any unpaid interest) and actual damages. A landlord who misses the 30-day written list forfeits the right to withhold any of the deposit. The tenant must give a new address in writing for the landlord to be liable.",
+          "quote": "Every landlord shall within thirty days of termination of a lease or upon surrender and acceptance of the leasehold premises, whichever first occurs, provide a tenant with a written list of any damages to the leasehold premises for which the landlord claims the tenant is liable.",
+          "citation": "68 P.S. 250.512 (Landlord and Tenant Act of 1951, Section 512)",
+          "sourceUrl": "https://www.legis.state.pa.us/WU01/LI/LI/US/HTM/1951/0/0020.005.000.012.000..HTM",
+          "sourceName": "Pennsylvania General Assembly (Landlord and Tenant Act of 1951)",
+          "checkedAt": "2026-11-27",
+          "slug": "pennsylvania-deposit-return"
+        }
+      ],
       "pendingTopics": [
-        "deposit-cap",
-        "deposit-return",
         "late-fee",
         "entry-notice",
         "termination-notice"

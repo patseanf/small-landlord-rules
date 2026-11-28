@@ -17,6 +17,15 @@
         "/states/illinois",
         "/tools/tenantcloud"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "type": "nightly",
+      "title": "Added Pennsylvania landlord rules (2 statute-cited rules) and Landlord Studio tool review",
+      "paths": [
+        "/states/pennsylvania",
+        "/tools/landlord-studio"
+      ]
     }
   ]
 }

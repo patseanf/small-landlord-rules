@@ -3,15 +3,6 @@
   "updatedAt": "2026-11-27",
   "items": [
     {
-      "id": "state-rules:pennsylvania",
-      "type": "state-rules",
-      "title": "Pennsylvania landlord rules: deposit limit, return deadline, late fees, entry and notice",
-      "targetSlug": "pennsylvania",
-      "sourceHint": "Official state legislature code site or state AG/housing agency only",
-      "priority": 1,
-      "status": "queued"
-    },
-    {
       "id": "state-rules:georgia",
       "type": "state-rules",
       "title": "Georgia landlord rules: deposit limit, return deadline, late fees, entry and notice",
@@ -467,15 +458,6 @@
       "title": "Washington: Security deposit limit",
       "targetSlug": "washington-deposit-cap",
       "sourceHint": "Official statute text; if the statute is silent, cite an official source that says so",
-      "priority": 2,
-      "status": "queued"
-    },
-    {
-      "id": "tool:landlord-studio",
-      "type": "tool",
-      "title": "Landlord Studio: real fees for small landlords",
-      "targetSlug": "landlord-studio",
-      "sourceHint": "Provider's own pricing/fee pages only",
       "priority": 2,
       "status": "queued"
     },
